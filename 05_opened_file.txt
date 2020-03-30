@@ -1,0 +1,2 @@
+this is testing write to output file
+now closing it with told command.*

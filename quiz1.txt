@@ -1,0 +1,23 @@
+'Are you a genius? Answer our quiz and find out!'.
+
+'What is the name of this planet?'.
+'Earth'. 20.
+'The Moon'. 5.
+'John'. 0. end.
+
+'What is the capital of Great Britain?'.
+'America'. 0. 'Paris'. 6. 'Moscow'. 4. 'London'. 50. end.
+
+'In which country will you the find the Sydney Opera House?'.
+'London'. 5.
+'Toronto'. 4.
+'The Moon'. 2.
+'Australia'. 10.
+'Germany'. 8. end.
+
+endquestions.
+
+0. 20. 'You aren\'t one'.
+21. 60. 'You need some reading'.
+61. 80.   'You are genius'.
+endmarkscheme.

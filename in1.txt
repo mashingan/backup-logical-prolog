@@ -1,0 +1,6 @@
+'first term 1'. 'second term1'.
+'third term1'.
+
+fourth1. 'fifth term1'.
+sixth1.
+end.
